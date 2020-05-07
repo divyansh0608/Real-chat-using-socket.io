@@ -19,6 +19,10 @@ body {
 	font-size: 16px;
 	background: lightblue;
 	margin: 20px;
+	background-image: url(todarmal_chat/todarmal.jpeg) ,url(D:/todarmal_chat/toddddd.jpeg) ;
+	background-repeat: repeat,no-repeat; 
+	/* background-position: left , right; */
+	background-size: 500px ;  
 }
 
 ul {
